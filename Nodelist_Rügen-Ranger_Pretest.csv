@@ -1,0 +1,34 @@
+id,name,year,type,published,region,infos,author
+Ziffer1,Pressekodex Ziffer 1,NA,2,NA,NA,NA,NA
+Ziffer2,Pressekodex Ziffer 2,NA,2,NA,NA,NA,NA
+Ziffer4,Pressekodex Ziffer 4,NA,2,NA,NA,NA,NA
+Ziffer6,Pressekodex Ziffer 6,NA,2,NA,NA,NA,NA
+Ziffer7,Pressekodex Ziffer 7,NA,2,NA,NA,NA,NA
+Ziffer8,Pressekodex Ziffer 8,NA,2,NA,NA,NA,NA
+Ziffer9,Pressekodex Ziffer 9,NA,2,NA,NA,NA,NA
+Ziffer10,Pressekodex Ziffer 10,NA,2,NA,NA,NA,NA
+Ziffer11,Pressekodex Ziffer 11,NA,2,NA,NA,NA,NA
+Ziffer12,Pressekodex Ziffer 12,NA,2,NA,NA,NA,NA
+Ziffer13,Pressekodex Ziffer 13,NA,2,NA,NA,NA,NA
+PR,Presserat,NA,1,NA,NA,NA,NA
+Maedchen1,Maedchen Online (0918/19/3),2020,3,1,1,(0918/19/3),NA
+Hoerzu1,Hoerzu (0936/19/3),2020,3,2,1,(0936/19/3),NA
+Bild1,Bild + Online (0966/19/1),2020,3,1,1,(0966/19/1),NA
+Volksstimme1,Volksstimme (1020/19/1),2020,3,2,2,(1020/19/1),NA
+BZ1,Berliner Zeitung + Online (1028/19/3),2020,3,1,2,(1028/19/3),NA
+GM1,Grazia Magazin (1067/19/3),2020,3,3,1,(1067/19/3),NA
+SHZ1,SHZ Online (1087/19/4),2020,3,1,2,(1087/19/4),Eckard Gehm
+Bild2,Bild (1118/19/1),2020,3,2,1,(1118/19/1),NA
+Bild3,Bild + Online (0014/20/1),2020,3,1,1,(0014/20/1),NA
+Bild4,Bild Online (0031/20/2),2020,3,1,1,(0031/20/2),NA
+WAZ1,Westdeutsche Allgemeine Zeitung (B 63/89),1990,3,2,2,(B 63/89),NA
+HM1,Hamburger Morgenpost (B 8/90),1990,3,2,2,(B 8/90),NA
+RK1,Rothenburger Kreiszeitung (B 14/90),1990,3,2,2,(B 14/90),NA
+MZ1,Mittelbayerische Zeitung (B 17/90),1990,3,2,2,(B 17/90),NA
+DP1,Dill-Post (B 24/90),1990,3,2,2,"(B 24/90),",NA
+AZ1,Abendzeitung (B 29/90),1990,3,2,1,(B 29/90),NA
+TZ1,TZ (B 31/90),1990,3,2,1,(B 31/90),NA
+MZ2,Mittelbayerische Zeitung (B 59/90),1990,3,2,2,(B 59/90),NA
+MM1,Münchner Merkur (B 70/90),1990,3,2,1,(B 70/90),NA
+FNP1,Frankfurter neue Presse (B 91/90),1990,3,2,2,(B 91/90),NA
+DE1,Darmstädter Echo (B 98/90),1990,3,2,2,(B 98/90),NA
