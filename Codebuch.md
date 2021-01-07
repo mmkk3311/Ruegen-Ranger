@@ -108,3 +108,22 @@ Definiert die Verfügbarkeit des Artikels
 **author**
 
 Name des Autors/der Autorin des gerügten Artikels (mit einer Spalte Abstand einzutragen, da evtl. nur Zusatzinfo)
+
+
+# Edge-Attribute
+
+**weight**
+
+Art der Rüge
+
+1 = öffentliche Rüge<br>
+2 = nicht-öffentliche Rüge
+
+**relationship**
+
+1 = Pressekodex<br>
+2 = verstößt gegen
+
+**year**
+
+Definiert das Jahr, in dem die Rüge erteilt worden ist
